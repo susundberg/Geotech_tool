@@ -37,7 +37,7 @@ directory if such is wanted (like /usr/local/bin).
 * messages.h -- The messages for communication with device
 
 == History log before GitHub
-2012-09-30 Sundberg: Fixed issue with time stamp after 16:00 hours from midnight, thanks to Michal Kaut, Norway
-2012-09-14 Sundberg: Fixed issues with serial reading, thanks to Erik Starbäck, Sweden
-2012-04-14 Sundberg: First version created.
+* 2012-09-30 Sundberg: Fixed issue with time stamp after 16:00 hours from midnight, thanks to Michal Kaut, Norway
+* 2012-09-14 Sundberg: Fixed issues with serial reading, thanks to Erik Starbäck, Sweden
+* 2012-04-14 Sundberg: First version created.
 
